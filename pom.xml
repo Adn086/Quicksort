@@ -12,7 +12,7 @@
 
   <properties>
      <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <sonar.organization>dcastellnieves</sonar.organization>
+    <sonar.organization>adn086</sonar.organization>
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     
     <maven.compiler.source>11</maven.compiler.source>
@@ -24,6 +24,7 @@
     <sonar.java.coveragePlugin>jacoco</sonar.java.coveragePlugin>
     <sonar.dynamicAnalysis>reuseReports</sonar.dynamicAnalysis>
     <sonar.language>java</sonar.language>
+
 
 </properties>
   
